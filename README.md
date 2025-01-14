@@ -1,10 +1,10 @@
-# Recommender-System
+# Recommender System for Consumer
 
 ## Overview
 This project aims to develop a product recommendation system for consumers based on implicit feedback using collaborative filtering.
 
 ## Table of Contents
-- Features
+- >Features
 - Technologies Used
 - Installation
 - Usage
